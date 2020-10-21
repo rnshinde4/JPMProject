@@ -1,0 +1,29 @@
+JPMProject
+
+Pre-requisites
+•	Java
+•	Maven
+•	Eclipse
+•	Eclipse Plugins
+•	Maven
+•	Cucumber
+
+Setting up selenium cucumber java
+•	Install Java and set path.
+•	Install Maven and set path.
+
+Automation Testing Using Java
+selenium-cucumber is a behavior driven development (BDD) approach to write automation test script to test Web. It enables you to write and execute automated acceptance tests. It is cross-platform, open source and free. Automate your test cases with minimal coding.
+
+Framework Architecture
+•	Src/test/resources/features - All the cucumber features files (files .feature ) goes here.
+•	src/test/java/stepdefinitions - You can define step definition under this package for your feature steps.
+•	src/test/java/utility - All utility and helper class for the framework will go here.
+•	src/test/java/testrunner - Define  runner class for cucumber project.
+•	src/test/java/pageobject- All the page object methods will be defined under this package.
+•	target/HtmlReport/index.html -Result report gets generate here.
+•	target/logs – Logs file gets generate here.
+
+Running features
+•	Goto project directory.
+•	Use "mvn test" command to run features.
