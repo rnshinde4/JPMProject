@@ -1,0 +1,7 @@
+2020-10-21 18:36:53,410  INFO [main] GooglePage:39 - Launching browser
+2020-10-21 18:37:03,265  INFO [main] GooglePage:51 - Verifying page title
+2020-10-21 18:37:03,270  INFO [main] GoogleSearchStepDefs:18 - Successfully navigated to google page
+2020-10-21 18:37:08,605  INFO [main] GooglePage:60 - Search data entered successfully
+2020-10-21 18:37:39,740  INFO [main] GoogleSearchStepDefs:25 - Clicked on required search result
+2020-10-21 18:37:39,755  INFO [main] GooglePage:73 - Verifying JPM logo
+2020-10-21 18:37:39,815  INFO [main] GoogleSearchStepDefs:32 - JP Morgan logo is visible on page
